@@ -8,3 +8,6 @@
 
 ## tensorflow setup
 1. https://www.tensorflow.org/install/install_windows
+
+## Seems interesing
+1. https://arxiv.org/pdf/1502.04623v2.pdf
